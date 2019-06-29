@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>呆极的Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-06-29T08:22:20.051Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Nerd Tsai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>K8S单机版部署</title>
+    <link href="http://yoursite.com/2019/06/29/K8S%E5%8D%95%E6%9C%BA%E7%89%88%E9%83%A8%E7%BD%B2/"/>
+    <id>http://yoursite.com/2019/06/29/K8S单机版部署/</id>
+    <published>2019-06-29T07:13:32.000Z</published>
+    <updated>2019-06-29T08:22:20.051Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="K8S" scheme="http://yoursite.com/tags/K8S/"/>
+    
+      <category term="IBM" scheme="http://yoursite.com/tags/IBM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Just a test</title>
+    <link href="http://yoursite.com/2018/12/24/Just-a-test/"/>
+    <id>http://yoursite.com/2018/12/24/Just-a-test/</id>
+    <published>2018-12-24T12:47:16.000Z</published>
+    <updated>2019-06-29T07:14:26.707Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="None" scheme="http://yoursite.com/categories/None/"/>
+    
+    
+      <category term="None" scheme="http://yoursite.com/tags/None/"/>
+    
+  </entry>
+  
+</feed>
