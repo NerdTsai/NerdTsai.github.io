@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-26T06:43:22.905Z</updated>
+  <updated>2019-07-26T08:05:31.227Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python错误--&lt;filter object at 0x11691eba8&gt;</title>
+    <link href="http://yoursite.com/2019/07/26/4673629096/"/>
+    <id>http://yoursite.com/2019/07/26/4673629096/</id>
+    <published>2019-07-26T07:48:43.000Z</published>
+    <updated>2019-07-26T08:05:31.227Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="错误记录" scheme="http://yoursite.com/categories/%E9%94%99%E8%AF%AF%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+      <category term="bug" scheme="http://yoursite.com/tags/bug/"/>
+    
+  </entry>
   
   <entry>
     <title>Golang入门--傻瓜安装</title>
